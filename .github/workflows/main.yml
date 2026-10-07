@@ -34,7 +34,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      # IMPORTANT: show exactly what Vite produced
       - name: Check dist
         run: |
           echo "===== DIST ====="
