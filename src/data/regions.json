@@ -1,0 +1,1230 @@
+[
+  {
+    "region_id": "R001",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "AHMEDABAD",
+    "base_region_name": "AHMEDABAD",
+    "ro_region": "No",
+    "branch_count": 59,
+    "district_count": 2,
+    "states": [
+      "GUJARAT"
+    ]
+  },
+  {
+    "region_id": "R002",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "BARODA",
+    "base_region_name": "BARODA",
+    "ro_region": "No",
+    "branch_count": 48,
+    "district_count": 6,
+    "states": [
+      "GUJARAT"
+    ]
+  },
+  {
+    "region_id": "R003",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "GANDHINAGAR",
+    "base_region_name": "GANDHINAGAR",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 8,
+    "states": [
+      "GUJARAT"
+    ]
+  },
+  {
+    "region_id": "R004",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "JAMNAGAR",
+    "base_region_name": "JAMNAGAR",
+    "ro_region": "No",
+    "branch_count": 44,
+    "district_count": 6,
+    "states": [
+      "GUJARAT",
+      "UNION TERRITORY OF DADRA/NAGAR HAVELI/DIU/DAMAN"
+    ]
+  },
+  {
+    "region_id": "R005",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "RAJKOT",
+    "base_region_name": "RAJKOT",
+    "ro_region": "No",
+    "branch_count": 57,
+    "district_count": 7,
+    "states": [
+      "GUJARAT"
+    ]
+  },
+  {
+    "region_id": "R006",
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "region_name": "SURAT",
+    "base_region_name": "SURAT",
+    "ro_region": "No",
+    "branch_count": 51,
+    "district_count": 9,
+    "states": [
+      "GUJARAT",
+      "UNION TERRITORY OF DADRA/NAGAR HAVELI/DIU/DAMAN"
+    ]
+  },
+  {
+    "region_id": "R007",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "BHOPAL",
+    "base_region_name": "BHOPAL",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 6,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R008",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "CHHINDWARA",
+    "base_region_name": "CHHINDWARA",
+    "ro_region": "No",
+    "branch_count": 54,
+    "district_count": 4,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R009",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "GWALIOR",
+    "base_region_name": "GWALIOR",
+    "ro_region": "No",
+    "branch_count": 67,
+    "district_count": 6,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R010",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "HOSHANGABAD",
+    "base_region_name": "HOSHANGABAD",
+    "ro_region": "No",
+    "branch_count": 46,
+    "district_count": 3,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R011",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "INDORE",
+    "base_region_name": "INDORE",
+    "ro_region": "No",
+    "branch_count": 41,
+    "district_count": 9,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R012",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "JABALPUR",
+    "base_region_name": "JABALPUR",
+    "ro_region": "No",
+    "branch_count": 59,
+    "district_count": 3,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R013",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "RATLAM",
+    "base_region_name": "RATLAM",
+    "ro_region": "No",
+    "branch_count": 41,
+    "district_count": 5,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R014",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "SAGAR",
+    "base_region_name": "SAGAR",
+    "ro_region": "No",
+    "branch_count": 61,
+    "district_count": 9,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R015",
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "region_name": "SHAHDOL",
+    "base_region_name": "SHAHDOL",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 10,
+    "states": [
+      "MADHYA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R016",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "AMRITSAR",
+    "base_region_name": "AMRITSAR",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 14,
+    "states": [
+      "JAMMU&KASHMIR(UT)",
+      "LADAKH (UT)",
+      "PUNJAB"
+    ]
+  },
+  {
+    "region_id": "R017",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "CHANDIGARH",
+    "base_region_name": "CHANDIGARH",
+    "ro_region": "No",
+    "branch_count": 44,
+    "district_count": 8,
+    "states": [
+      "CHANDIGARH(UT)",
+      "HARYANA",
+      "PUNJAB"
+    ]
+  },
+  {
+    "region_id": "R018",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "JALANDHAR",
+    "base_region_name": "JALANDHAR",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 9,
+    "states": [
+      "PUNJAB"
+    ]
+  },
+  {
+    "region_id": "R019",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "KARNAL",
+    "base_region_name": "KARNAL",
+    "ro_region": "No",
+    "branch_count": 45,
+    "district_count": 5,
+    "states": [
+      "HARYANA"
+    ]
+  },
+  {
+    "region_id": "R020",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "LUDHIANA",
+    "base_region_name": "LUDHIANA",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 11,
+    "states": [
+      "PUNJAB"
+    ]
+  },
+  {
+    "region_id": "R021",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "ROHTAK",
+    "base_region_name": "ROHTAK",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 12,
+    "states": [
+      "HARYANA"
+    ]
+  },
+  {
+    "region_id": "R022",
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "region_name": "SHIMLA",
+    "base_region_name": "SHIMLA",
+    "ro_region": "No",
+    "branch_count": 57,
+    "district_count": 12,
+    "states": [
+      "HIMACHAL PRADESH"
+    ]
+  },
+  {
+    "region_id": "R023",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "CHENNAI",
+    "base_region_name": "CHENNAI",
+    "ro_region": "No",
+    "branch_count": 58,
+    "district_count": 7,
+    "states": [
+      "TAMIL NADU"
+    ]
+  },
+  {
+    "region_id": "R024",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "COIMBATORE",
+    "base_region_name": "COIMBATORE",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 10,
+    "states": [
+      "TAMIL NADU"
+    ]
+  },
+  {
+    "region_id": "R025",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "KOCHI",
+    "base_region_name": "KOCHI",
+    "ro_region": "No",
+    "branch_count": 61,
+    "district_count": 10,
+    "states": [
+      "KERALA"
+    ]
+  },
+  {
+    "region_id": "R026",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "MADURAI",
+    "base_region_name": "MADURAI",
+    "ro_region": "No",
+    "branch_count": 48,
+    "district_count": 9,
+    "states": [
+      "TAMIL NADU"
+    ]
+  },
+  {
+    "region_id": "R027",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "THIRUVANTHAPURAM",
+    "base_region_name": "THIRUVANTHAPURAM",
+    "ro_region": "No",
+    "branch_count": 63,
+    "district_count": 5,
+    "states": [
+      "KERALA"
+    ]
+  },
+  {
+    "region_id": "R028",
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "region_name": "TRICHY",
+    "base_region_name": "TRICHY",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 14,
+    "states": [
+      "PONDICHERRY(UT)",
+      "TAMIL NADU"
+    ]
+  },
+  {
+    "region_id": "R029",
+    "zone_id": "Z05",
+    "zone_name": "CO",
+    "region_name": "CO",
+    "base_region_name": "CO",
+    "ro_region": "No",
+    "branch_count": 1,
+    "district_count": 1,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R030",
+    "zone_id": "Z06",
+    "zone_name": "DELHI",
+    "region_name": "DEHRADUN",
+    "base_region_name": "DEHRADUN",
+    "ro_region": "No",
+    "branch_count": 42,
+    "district_count": 13,
+    "states": [
+      "UTTARAKHAND",
+      "UTTRAKHAND"
+    ]
+  },
+  {
+    "region_id": "R031",
+    "zone_id": "Z06",
+    "zone_name": "DELHI",
+    "region_name": "DELHI NORTH",
+    "base_region_name": "DELHI NORTH",
+    "ro_region": "No",
+    "branch_count": 49,
+    "district_count": 8,
+    "states": [
+      "NCT OF DELHI(UT)",
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R032",
+    "zone_id": "Z06",
+    "zone_name": "DELHI",
+    "region_name": "DELHI SOUTH",
+    "base_region_name": "DELHI SOUTH",
+    "ro_region": "No",
+    "branch_count": 53,
+    "district_count": 9,
+    "states": [
+      "NCT OF DELHI(UT)"
+    ]
+  },
+  {
+    "region_id": "R033",
+    "zone_id": "Z06",
+    "zone_name": "DELHI",
+    "region_name": "GURUGRAM",
+    "base_region_name": "GURUGRAM",
+    "ro_region": "No",
+    "branch_count": 31,
+    "district_count": 8,
+    "states": [
+      "HARYANA",
+      "NCT OF DELHI(UT)"
+    ]
+  },
+  {
+    "region_id": "R034",
+    "zone_id": "Z07",
+    "zone_name": "GUWAHATI",
+    "region_name": "BARPETA ROAD",
+    "base_region_name": "BARPETA ROAD",
+    "ro_region": "No",
+    "branch_count": 57,
+    "district_count": 16,
+    "states": [
+      "ASSAM"
+    ]
+  },
+  {
+    "region_id": "R035",
+    "zone_id": "Z07",
+    "zone_name": "GUWAHATI",
+    "region_name": "GUWAHATI",
+    "base_region_name": "GUWAHATI",
+    "ro_region": "No",
+    "branch_count": 57,
+    "district_count": 23,
+    "states": [
+      "ASSAM",
+      "MANIPUR",
+      "MEGHALAYA",
+      "MIZORAM",
+      "TRIPURA"
+    ]
+  },
+  {
+    "region_id": "R036",
+    "zone_id": "Z07",
+    "zone_name": "GUWAHATI",
+    "region_name": "UPPER ASSAM",
+    "base_region_name": "UPPER ASSAM",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 31,
+    "states": [
+      "ARUNACHALPRADESH",
+      "ASSAM",
+      "NAGALAND"
+    ]
+  },
+  {
+    "region_id": "R037",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "BENGALURU",
+    "base_region_name": "BENGALURU",
+    "ro_region": "No",
+    "branch_count": 62,
+    "district_count": 15,
+    "states": [
+      "KARNATAKA"
+    ]
+  },
+  {
+    "region_id": "R038",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "CUDDAPAH",
+    "base_region_name": "CUDDAPAH",
+    "ro_region": "No",
+    "branch_count": 45,
+    "district_count": 12,
+    "states": [
+      "ANDHRA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R039",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "HUBLI",
+    "base_region_name": "HUBLI",
+    "ro_region": "No",
+    "branch_count": 45,
+    "district_count": 19,
+    "states": [
+      "KARNATAKA"
+    ]
+  },
+  {
+    "region_id": "R040",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "HYDERABAD",
+    "base_region_name": "HYDERABAD",
+    "ro_region": "No",
+    "branch_count": 62,
+    "district_count": 10,
+    "states": [
+      "TELANGANA"
+    ]
+  },
+  {
+    "region_id": "R041",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "VIJAYAWADA",
+    "base_region_name": "VIJAYAWADA",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 5,
+    "states": [
+      "ANDHRA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R042",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "VISAKHAPATNAM",
+    "base_region_name": "VISAKHAPATNAM",
+    "ro_region": "No",
+    "branch_count": 41,
+    "district_count": 9,
+    "states": [
+      "ANDHRA PRADESH"
+    ]
+  },
+  {
+    "region_id": "R043",
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "region_name": "WARANGAL",
+    "base_region_name": "WARANGAL",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 22,
+    "states": [
+      "TELANGANA"
+    ]
+  },
+  {
+    "region_id": "R044",
+    "zone_id": "Z09",
+    "zone_name": "JAIPUR",
+    "region_name": "JAIPUR",
+    "base_region_name": "JAIPUR",
+    "ro_region": "No",
+    "branch_count": 70,
+    "district_count": 15,
+    "states": [
+      "RAJASTHAN"
+    ]
+  },
+  {
+    "region_id": "R045",
+    "zone_id": "Z09",
+    "zone_name": "JAIPUR",
+    "region_name": "JODHPUR",
+    "base_region_name": "JODHPUR",
+    "ro_region": "No",
+    "branch_count": 35,
+    "district_count": 10,
+    "states": [
+      "RAJASTHAN"
+    ]
+  },
+  {
+    "region_id": "R046",
+    "zone_id": "Z09",
+    "zone_name": "JAIPUR",
+    "region_name": "KOTA",
+    "base_region_name": "KOTA",
+    "ro_region": "No",
+    "branch_count": 60,
+    "district_count": 5,
+    "states": [
+      "RAJASTHAN"
+    ]
+  },
+  {
+    "region_id": "R047",
+    "zone_id": "Z09",
+    "zone_name": "JAIPUR",
+    "region_name": "UDAIPUR",
+    "base_region_name": "UDAIPUR",
+    "ro_region": "No",
+    "branch_count": 28,
+    "district_count": 11,
+    "states": [
+      "RAJASTHAN"
+    ]
+  },
+  {
+    "region_id": "R048",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "BANKURA",
+    "base_region_name": "BANKURA",
+    "ro_region": "No",
+    "branch_count": 34,
+    "district_count": 6,
+    "states": [
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R049",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "COOCH BEHAR",
+    "base_region_name": "COOCH BEHAR",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 2,
+    "states": [
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R050",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "DURGAPUR",
+    "base_region_name": "DURGAPUR",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 6,
+    "states": [
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R051",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "JALPAIGURI",
+    "base_region_name": "JALPAIGURI",
+    "ro_region": "No",
+    "branch_count": 40,
+    "district_count": 7,
+    "states": [
+      "SIKKIM",
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R052",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "KOLKATA NORTH",
+    "base_region_name": "KOLKATA NORTH",
+    "ro_region": "No",
+    "branch_count": 53,
+    "district_count": 3,
+    "states": [
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R053",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "KOLKATA SOUTH",
+    "base_region_name": "KOLKATA SOUTH",
+    "ro_region": "No",
+    "branch_count": 61,
+    "district_count": 7,
+    "states": [
+      "ANDAMAN&NICOBAR(UT)",
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R054",
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "region_name": "SILIGURI",
+    "base_region_name": "SILIGURI",
+    "ro_region": "No",
+    "branch_count": 51,
+    "district_count": 5,
+    "states": [
+      "WEST BENGAL"
+    ]
+  },
+  {
+    "region_id": "R055",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "AGRA",
+    "base_region_name": "AGRA",
+    "ro_region": "No",
+    "branch_count": 54,
+    "district_count": 7,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R056",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "AYODHYA",
+    "base_region_name": "AYODHYA",
+    "ro_region": "No",
+    "branch_count": 50,
+    "district_count": 9,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R057",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "BAREILLY",
+    "base_region_name": "BAREILLY",
+    "ro_region": "No",
+    "branch_count": 43,
+    "district_count": 11,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R058",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "DEORIA",
+    "base_region_name": "DEORIA",
+    "ro_region": "No",
+    "branch_count": 60,
+    "district_count": 2,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R059",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "ETAWAH",
+    "base_region_name": "ETAWAH",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 5,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R060",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "GORAKHPUR",
+    "base_region_name": "GORAKHPUR",
+    "ro_region": "No",
+    "branch_count": 58,
+    "district_count": 4,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R061",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "JHANSI",
+    "base_region_name": "JHANSI",
+    "ro_region": "No",
+    "branch_count": 38,
+    "district_count": 7,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R062",
+    "zone_id": "Z11",
+    "zone_name": "Lucknow",
+    "region_name": "KANPUR",
+    "base_region_name": "KANPUR",
+    "ro_region": "No",
+    "branch_count": 1,
+    "district_count": 1,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R063",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "KANPUR",
+    "base_region_name": "KANPUR",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 4,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R064",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "LUCKNOW",
+    "base_region_name": "LUCKNOW",
+    "ro_region": "No",
+    "branch_count": 54,
+    "district_count": 4,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R065",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "MEERUT",
+    "base_region_name": "MEERUT",
+    "ro_region": "No",
+    "branch_count": 46,
+    "district_count": 8,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R066",
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "region_name": "VARANASI",
+    "base_region_name": "VARANASI",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 13,
+    "states": [
+      "UTTAR PRADESH"
+    ]
+  },
+  {
+    "region_id": "R067",
+    "zone_id": "Z13",
+    "zone_name": "MMZO",
+    "region_name": "NMRO",
+    "base_region_name": "NMRO",
+    "ro_region": "No",
+    "branch_count": 40,
+    "district_count": 2,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R068",
+    "zone_id": "Z13",
+    "zone_name": "MMZO",
+    "region_name": "PANAJI",
+    "base_region_name": "PANAJI",
+    "ro_region": "No",
+    "branch_count": 43,
+    "district_count": 4,
+    "states": [
+      "GOA",
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R069",
+    "zone_id": "Z13",
+    "zone_name": "MMZO",
+    "region_name": "SMRO",
+    "base_region_name": "SMRO",
+    "ro_region": "No",
+    "branch_count": 35,
+    "district_count": 1,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R070",
+    "zone_id": "Z13",
+    "zone_name": "MMZO",
+    "region_name": "THANE",
+    "base_region_name": "THANE",
+    "ro_region": "No",
+    "branch_count": 45,
+    "district_count": 3,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R071",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "DARBHANGA",
+    "base_region_name": "DARBHANGA",
+    "ro_region": "No",
+    "branch_count": 62,
+    "district_count": 3,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R072",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "DHANBAD",
+    "base_region_name": "DHANBAD",
+    "ro_region": "No",
+    "branch_count": 42,
+    "district_count": 13,
+    "states": [
+      "JHARKHAND"
+    ]
+  },
+  {
+    "region_id": "R073",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "GAYA",
+    "base_region_name": "GAYA",
+    "ro_region": "No",
+    "branch_count": 41,
+    "district_count": 11,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R074",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "KATIHAR",
+    "base_region_name": "KATIHAR",
+    "ro_region": "No",
+    "branch_count": 42,
+    "district_count": 5,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R075",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "MOTIHARI",
+    "base_region_name": "MOTIHARI",
+    "ro_region": "No",
+    "branch_count": 51,
+    "district_count": 2,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R076",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "MUZAFFARPUR",
+    "base_region_name": "MUZAFFARPUR",
+    "ro_region": "No",
+    "branch_count": 66,
+    "district_count": 4,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R077",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "PATNA",
+    "base_region_name": "PATNA",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 5,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R078",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "PURNEA",
+    "base_region_name": "PURNEA",
+    "ro_region": "No",
+    "branch_count": 62,
+    "district_count": 6,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R079",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "RANCHI",
+    "base_region_name": "RANCHI",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 12,
+    "states": [
+      "JHARKHAND"
+    ]
+  },
+  {
+    "region_id": "R080",
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "region_name": "SIWAN",
+    "base_region_name": "SIWAN",
+    "ro_region": "No",
+    "branch_count": 57,
+    "district_count": 3,
+    "states": [
+      "BIHAR"
+    ]
+  },
+  {
+    "region_id": "R081",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "AHILYANAGAR",
+    "base_region_name": "AHILYANAGAR",
+    "ro_region": "No",
+    "branch_count": 51,
+    "district_count": 1,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R082",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "AKOLA",
+    "base_region_name": "AKOLA",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 3,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R083",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "AMARAVATI",
+    "base_region_name": "AMARAVATI",
+    "ro_region": "No",
+    "branch_count": 67,
+    "district_count": 2,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R084",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "CHHATRAPATI SAMBHAJI NAGAR",
+    "base_region_name": "CHHATRAPATI SAMBHAJI NAGAR",
+    "ro_region": "No",
+    "branch_count": 41,
+    "district_count": 8,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R085",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "JALGAON",
+    "base_region_name": "JALGAON",
+    "ro_region": "No",
+    "branch_count": 43,
+    "district_count": 1,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R086",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "NAGPUR",
+    "base_region_name": "NAGPUR",
+    "ro_region": "No",
+    "branch_count": 52,
+    "district_count": 6,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R087",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "NASIK",
+    "base_region_name": "NASIK",
+    "ro_region": "No",
+    "branch_count": 62,
+    "district_count": 4,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R088",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "PUNE",
+    "base_region_name": "PUNE",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 1,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R089",
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "region_name": "SOLAPUR",
+    "base_region_name": "SOLAPUR",
+    "ro_region": "No",
+    "branch_count": 37,
+    "district_count": 6,
+    "states": [
+      "MAHARASHTRA"
+    ]
+  },
+  {
+    "region_id": "R090",
+    "zone_id": "Z16",
+    "zone_name": "RAIPUR",
+    "region_name": "AMBIKAPUR",
+    "base_region_name": "AMBIKAPUR",
+    "ro_region": "No",
+    "branch_count": 60,
+    "district_count": 10,
+    "states": [
+      "CHHATTISGARH"
+    ]
+  },
+  {
+    "region_id": "R091",
+    "zone_id": "Z16",
+    "zone_name": "RAIPUR",
+    "region_name": "BHUBANESHWAR",
+    "base_region_name": "BHUBANESHWAR",
+    "ro_region": "No",
+    "branch_count": 58,
+    "district_count": 12,
+    "states": [
+      "ORISSA"
+    ]
+  },
+  {
+    "region_id": "R092",
+    "zone_id": "Z16",
+    "zone_name": "RAIPUR",
+    "region_name": "RAIPUR",
+    "base_region_name": "RAIPUR",
+    "ro_region": "No",
+    "branch_count": 56,
+    "district_count": 19,
+    "states": [
+      "CHHATTISGARH"
+    ]
+  },
+  {
+    "region_id": "R093",
+    "zone_id": "Z16",
+    "zone_name": "RAIPUR",
+    "region_name": "SAMBALPUR",
+    "base_region_name": "SAMBALPUR",
+    "ro_region": "No",
+    "branch_count": 47,
+    "district_count": 22,
+    "states": [
+      "ORISSA"
+    ]
+  }
+]

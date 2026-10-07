@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #10243f;
+  background: #f5f7fa;
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid #1d4e89;
+  outline-offset: 2px;
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  background: #d5dee8;
+  font-family: inherit;
+  outline: none;
+}
+
+.leaflet-tooltip.cbi-tip {
+  z-index: 1000;
+  background: #ffffff;
+  color: #10243f;
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 0 10px 28px rgba(16, 36, 63, 0.16);
+  padding: 10px 12px;
+}
+
+.leaflet-tooltip.cbi-tip::before {
+  border-top-color: #ffffff;
+}
+
+.cbi-tip strong {
+  display: block;
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.cbi-tip p {
+  margin: 2px 0 0;
+  font-size: 12px;
+  line-height: 1.35;
+  color: #3d516b;
+}
+
+.leaflet-districtLabels-pane .cbi-dist-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 76px;
+  color: #0b1c33;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.15;
+  text-align: center;
+  pointer-events: none;
+  text-shadow:
+    0 0 3px #fff,
+    0 0 3px #fff,
+    1px 0 0 #fff,
+    -1px 0 0 #fff,
+    0 1px 0 #fff,
+    0 -1px 0 #fff;
+}
+
+@media (max-width: 767px) {
+  .leaflet-top.leaflet-right {
+    top: 64px;
+  }
+}
+
+.leaflet-control-attribution {
+  font-size: 10px;
+  background: rgba(255, 255, 255, 0.86) !important;
+  color: #5c6b80 !important;
+  max-width: 280px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}

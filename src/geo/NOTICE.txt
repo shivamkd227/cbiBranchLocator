@@ -1,0 +1,4 @@
+District boundaries are simplified from the MIT-licensed India district GeoJSON by Sajjad Anwar (https://github.com/geohacker/india).
+State boundaries are derived from the Highcharts India admin-1 map (https://code.highcharts.com/mapdata/countries/in/in-all.geo.json).
+Branch records come from CBI_Branch_Master_Complete.xlsx (DSBS_cbi_branch_list_07012025.pdf). Coordinates are not present in that source and are not invented.
+Employee names, where shown, are parsed from EMPLOYEE_LIST_JUN_2025.pdf and linked only when the department text matches a branch name inside the same zone and region.

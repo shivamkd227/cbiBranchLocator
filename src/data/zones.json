@@ -1,0 +1,130 @@
+[
+  {
+    "zone_id": "Z01",
+    "zone_name": "AHMEDABAD",
+    "branch_count": 315,
+    "region_count": 6,
+    "district_count": 36,
+    "state_count": 2
+  },
+  {
+    "zone_id": "Z02",
+    "zone_name": "BHOPAL",
+    "branch_count": 471,
+    "region_count": 9,
+    "district_count": 55,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z03",
+    "zone_name": "CHANDIGARH",
+    "branch_count": 351,
+    "region_count": 7,
+    "district_count": 69,
+    "state_count": 6
+  },
+  {
+    "zone_id": "Z04",
+    "zone_name": "CHENNAI",
+    "branch_count": 330,
+    "region_count": 6,
+    "district_count": 55,
+    "state_count": 3
+  },
+  {
+    "zone_id": "Z05",
+    "zone_name": "CO",
+    "branch_count": 1,
+    "region_count": 1,
+    "district_count": 1,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z06",
+    "zone_name": "DELHI",
+    "branch_count": 175,
+    "region_count": 4,
+    "district_count": 31,
+    "state_count": 5
+  },
+  {
+    "zone_id": "Z07",
+    "zone_name": "GUWAHATI",
+    "branch_count": 166,
+    "region_count": 3,
+    "district_count": 69,
+    "state_count": 7
+  },
+  {
+    "zone_id": "Z08",
+    "zone_name": "HYDERABAD",
+    "branch_count": 349,
+    "region_count": 7,
+    "district_count": 92,
+    "state_count": 3
+  },
+  {
+    "zone_id": "Z09",
+    "zone_name": "JAIPUR",
+    "branch_count": 193,
+    "region_count": 4,
+    "district_count": 41,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z10",
+    "zone_name": "KOLKATA",
+    "branch_count": 336,
+    "region_count": 7,
+    "district_count": 34,
+    "state_count": 3
+  },
+  {
+    "zone_id": "Z11",
+    "zone_name": "Lucknow",
+    "branch_count": 1,
+    "region_count": 1,
+    "district_count": 1,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z12",
+    "zone_name": "LUCKNOW",
+    "branch_count": 563,
+    "region_count": 11,
+    "district_count": 74,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z13",
+    "zone_name": "MMZO",
+    "branch_count": 163,
+    "region_count": 4,
+    "district_count": 10,
+    "state_count": 2
+  },
+  {
+    "zone_id": "Z14",
+    "zone_name": "PATNA",
+    "branch_count": 526,
+    "region_count": 10,
+    "district_count": 64,
+    "state_count": 2
+  },
+  {
+    "zone_id": "Z15",
+    "zone_name": "PUNE",
+    "branch_count": 456,
+    "region_count": 9,
+    "district_count": 31,
+    "state_count": 1
+  },
+  {
+    "zone_id": "Z16",
+    "zone_name": "RAIPUR",
+    "branch_count": 221,
+    "region_count": 4,
+    "district_count": 63,
+    "state_count": 2
+  }
+]
